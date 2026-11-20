@@ -281,4 +281,4 @@ Quando o build terminar, baixe o `.apk` pelo link que o EAS CLI mostra (ou com `
 
 Para facilitar a validação do projeto, disponibilizamos uma demonstração em vídeo do app.
 
-<a href="#" target="_blank">Assistir demonstração no YouTube</a> *(link a ser adicionado)*
+<a href="#" target="_blank">Assistir demonstração no YouTube</a> *(https://youtu.be/pvjqQMaKsKU?is=VSEZlNdzgiZVKSNv)*
